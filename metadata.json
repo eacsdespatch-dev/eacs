@@ -1,0 +1,6 @@
+{
+  "name": "AeroOps Flight Operations",
+  "description": "Comprehensive flight operations management system for executive and special aviation: schedule board, FTL, fleet, crew, roster, standby, leave, training, manuals, and flight tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
